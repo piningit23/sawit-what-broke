@@ -16,6 +16,6 @@ python3 main.py
 
 ## Entry
 
-> Our server ran out of memory mid-save and dropped your work like a hot potato. Nothing was backed up — hit retry while it still remembers your name.
+> Our server ran out of memory mid-save and dropped your work like a hot potato. Nothing was backed up, so hit retry before it forgets your name too.
 
-(148 characters, one line.)
+(147 characters, one line.)

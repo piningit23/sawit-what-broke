@@ -11,8 +11,8 @@ import os
 
 ENTRY = (
     "Our server ran out of memory mid-save and dropped your work "
-    "like a hot potato. Nothing was backed up \u2014 hit retry while "
-    "it still remembers your name."
+    "like a hot potato. Nothing was backed up, so hit retry before "
+    "it forgets your name too."
 )
 
 
