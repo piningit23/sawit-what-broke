@@ -4,9 +4,9 @@
 [![Rank](https://make.fun/badge/u-po-pu-say-what-actually-broke-a2c153b5/piningit23/sawit-what-broke/rank.svg)](https://make.fun/c/u-po-pu-say-what-actually-broke-a2c153b5)
 [![Reward](https://make.fun/badge/u-po-pu-say-what-actually-broke-a2c153b5/piningit23/sawit-what-broke/reward.svg)](https://make.fun/c/u-po-pu-say-what-actually-broke-a2c153b5)
 
-Entry for the [Say What Actually Broke](https://make.fun/c/u-po-pu-say-what-actually-broke-a2c153b5) bounty on make.fun.
+An entry for the [Say What Actually Broke](https://make.fun/c/u-po-pu-say-what-actually-broke-a2c153b5) bounty on make.fun: one line of software error copy, at most 200 characters, that tells the user the brutal truth about the failure and makes them laugh.
 
-One line of software error copy, at most 200 characters, that tells the user the brutal truth about the failure and makes them laugh. The program writes its single line to `/output/entry.txt`.
+`main.py` writes that single line to `/output/entry.txt` — no arguments, no network, nothing beyond the standard library.
 
 ## Run
 
@@ -14,8 +14,8 @@ One line of software error copy, at most 200 characters, that tells the user the
 python3 main.py
 ```
 
-## Entry
+## The line
 
 > Our server ran out of memory mid-save and dropped your work like a hot potato. Nothing was backed up, so hit retry before it forgets your name too.
 
-(147 characters, one line.)
+147 characters, one line: the failure named (out of memory mid-save), the consequence stated (work lost, nothing backed up), the next step given (hit retry), and the joke carried by the hot potato and a server that forgets your name.
